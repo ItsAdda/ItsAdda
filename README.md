@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Jonas  
+I’m an aspiring Python programmer focusing on automation, APIs, and e-commerce tools.  
+
+### 🔧 Current Projects
+- File Organizer (automates file sorting)
+- Expense Tracker (personal finance app)
+- Weather App (API-based data app)
+
+### 🎯 Goals
+Build practical tools, learn full-stack skills, and master programming/freelancing.
+
 
 <!--
 **ItsAdda/ItsAdda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
